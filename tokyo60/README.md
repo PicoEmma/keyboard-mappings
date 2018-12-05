@@ -2,6 +2,14 @@
 
 [Keyboard](https://www.massdrop.com/buy/massdrop-x-tokyo-keyboard-tokyo60-keyboard-kit)
 
-Includes my default key mapping which always works (MacOS)
+## Default MacOs
 
-Soon will include my preferred key mapping, which is a work in progress.
+Includes my default key mapping for MacOS.
+
+Created using [QMK Configurator](https://config.qmk.fm/#/tokyo60/LAYOUT_60_hhkb).
+
+Layer 0:
+![Not Found](imgs/Default-Layer-0.png)
+
+Layer 1:
+![Not Found](imgs/Default-Layer-1.png)
